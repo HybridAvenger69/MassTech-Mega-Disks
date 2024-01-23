@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 1.25,
+  "ingredient": {
+	"item": "mtdisks:raw_cybernetic_processor"
+  },
+  "result": "mtdisks:cybernetic_processor"
+}

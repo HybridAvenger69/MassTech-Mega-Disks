@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+	"G": {
+	  "tag": "forge:glass"
+	},
+	"I": {
+	  "item": "mtstorage:quartz_enriched_tech"
+	},
+	"R": {
+	  "item": "minecraft:redstone"
+	},
+	"S": {
+	  "item": "mtdisks:storagepart_409600k"
+	}
+  },
+  "pattern": [
+	"GRG",
+	"RSR",
+	"III"
+  ],
+  "result": {
+	"item": "mtdisks:disk_409600k"
+  }
+}

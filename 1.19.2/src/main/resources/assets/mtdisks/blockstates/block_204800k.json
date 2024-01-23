@@ -1,0 +1,7 @@
+{
+  "variants": {
+	"": {
+	  "model": "mtdisks:block/block_204800k"
+	}
+  }
+}

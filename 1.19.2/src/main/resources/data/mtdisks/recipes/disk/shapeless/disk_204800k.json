@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+	{
+	  "item": "mtstorage:storage_housing"
+	},
+	{
+	  "item": "mtdisks:storagepart_204800k"
+	}
+  ],
+  "result": {
+	"item": "mtdisks:disk_204800k"
+  }
+}

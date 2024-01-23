@@ -1,0 +1,21 @@
+{
+  "item.mtdisks.disk_102400k": "102M Disk",
+  "item.mtdisks.storagepart_102400k": "102M Part",
+  "block.mtdisks.block_102400k": "102M Storage Block",
+  "item.mtdisks.disk_204800k": "204M Disk",
+  "item.mtdisks.storagepart_204800k": "204M Part",
+  "block.mtdisks.block_204800k": "204M Storage Block",
+  "item.mtdisks.disk_409600k": "410M Disk",
+  "item.mtdisks.storagepart_409600k": "410M Part",
+  "block.mtdisks.block_409600k": "410M Storage Block",
+  "item.mtdisks.disk_819200k": "819M Disk",
+  "item.mtdisks.storagepart_819200k": "819M Part",
+  "block.mtdisks.block_819200k": "819M Storage Block",
+  "item.mtdisks.disk_2048000k": "2B Disk",
+  "item.mtdisks.storagepart_2048000k": "2B Part",
+  "block.mtdisks.block_2048000k": "2B Storage Block",
+  "item.mtdisks.raw_cybernetic_processor": "Raw Cybernetic Processor",
+  "item.mtdisks.cybernetic_processor" : "Cybernetic Processor",
+  "itemGroup.mtdisks_tab": "MassTech Digital Mega Disks"
+}
+

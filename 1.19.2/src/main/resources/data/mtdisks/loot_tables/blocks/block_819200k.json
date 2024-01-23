@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+	{
+	  "bonus_rolls": 0.0,
+	  "conditions": [
+		{
+		  "condition": "minecraft:survives_explosion"
+		}
+	  ],
+	  "entries": [
+		{
+		  "type": "minecraft:item",
+		  "functions": [
+			{
+			  "function": "mtsmorestorage:storage_block"
+			}
+		  ],
+		  "name": "mtdisks:block_819200k"
+		}
+	  ],
+	  "rolls": 1.0
+	}
+  ]
+}

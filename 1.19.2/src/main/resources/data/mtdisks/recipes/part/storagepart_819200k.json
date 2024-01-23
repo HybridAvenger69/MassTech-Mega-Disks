@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+	"D": {
+	  "item": "mtdisks:cybernetic_processor"
+	},
+	"G": {
+	  "item": "mtdisks:storagepart_409600k"
+	},
+	"I": {
+	  "item": "mtstorage:quartz_enriched_tech"
+	},
+	"R": {
+	  "item": "minecraft:redstone"
+	}
+  },
+  "pattern": [
+	"DID",
+	"GRG",
+	"DID"
+  ],
+  "result": {
+	"item": "mtdisks:storagepart_819200k"
+  }
+}
